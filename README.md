@@ -52,8 +52,7 @@ To use this software, ensure the following hardware components are available:
 5. Upload the code to your Arduino-compatible board.
 
 ### Copy & Paste
-- You can also download the file, copy & paste the contents into a new "Sketch" and upload
-- that onto your FC-Udev
+- You can also download the file, copy & paste the contents into a new "Sketch" and upload that onto your FC-Udev
 ---
 
 ## Code Structure
