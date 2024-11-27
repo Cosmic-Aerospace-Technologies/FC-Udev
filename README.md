@@ -2,7 +2,7 @@
 # FC-Udev Flight Software
 
 ## Overview
-**FC-Udev Flight Software** is an open-source project designed to operate and manage high-performance flight computers for aerospace applications. Developed by **Cosmic Aerospace Technology (C|A|T)**, this software provides a robust and modular foundation for enthusiasts, researchers, and professionals to build, deploy, and log telemetry for flight systems. The software is optimized for Arduino-based platforms and integrates advanced sensor modules to monitor real-time telemetry, detect events, and execute autonomous operations.
+**FC-Udev Flight Software** is an open-source project designed to operate and manage model rockets for any rocketeer wanting to learn more about integrating electronics into their projects. Developed by **Cosmic Aerospace Technology (C|A|T)**, this software provides a robust and modular foundation for enthusiasts, beginners, and professionals to build, deploy, and log telemetry for flight systems. The software is optimized for Arduino-based platforms and integrates sensor modules to monitor real-time telemetry, detect events, and execute autonomous operations.
 
 This repository represents our commitment to fostering innovation, learning, and collaboration within the aerospace and electronics communities.
 
