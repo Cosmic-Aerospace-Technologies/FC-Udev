@@ -82,7 +82,8 @@ Contributions are welcome! Whether you want to fix a bug, enhance the software, 
 ---
 
 ## 📜 License  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ---
 
